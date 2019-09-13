@@ -1,0 +1,11 @@
+C:\Projects\online-exam\TheCodeTest\bin\Debug\netcoreapp2.2\TheCodeTest.deps.json
+C:\Projects\online-exam\TheCodeTest\bin\Debug\netcoreapp2.2\TheCodeTest.runtimeconfig.json
+C:\Projects\online-exam\TheCodeTest\bin\Debug\netcoreapp2.2\TheCodeTest.runtimeconfig.dev.json
+C:\Projects\online-exam\TheCodeTest\bin\Debug\netcoreapp2.2\TheCodeTest.dll
+C:\Projects\online-exam\TheCodeTest\bin\Debug\netcoreapp2.2\TheCodeTest.pdb
+C:\Projects\online-exam\TheCodeTest\obj\Debug\netcoreapp2.2\TheCodeTest.csprojAssemblyReference.cache
+C:\Projects\online-exam\TheCodeTest\obj\Debug\netcoreapp2.2\TheCodeTest.csproj.CoreCompileInputs.cache
+C:\Projects\online-exam\TheCodeTest\obj\Debug\netcoreapp2.2\TheCodeTest.AssemblyInfoInputs.cache
+C:\Projects\online-exam\TheCodeTest\obj\Debug\netcoreapp2.2\TheCodeTest.AssemblyInfo.cs
+C:\Projects\online-exam\TheCodeTest\obj\Debug\netcoreapp2.2\TheCodeTest.dll
+C:\Projects\online-exam\TheCodeTest\obj\Debug\netcoreapp2.2\TheCodeTest.pdb
